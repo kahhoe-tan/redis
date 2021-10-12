@@ -1,0 +1,5 @@
+# TLS certificates
+tls/*
+
+# MacOS system file
+.DS_Store
